@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication12", "WebApplication12\WebApplication12.csproj", "{508FADE5-E23A-45A1-A223-8D3CCD952162}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinCancerDiagnosis", "WebApplication12\SkinCancerDiagnosis.csproj", "{508FADE5-E23A-45A1-A223-8D3CCD952162}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
